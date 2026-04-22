@@ -1,3 +1,4 @@
+<img width="382" height="480" alt="121" src="https://github.com/user-attachments/assets/e0b75469-507c-4be7-9f9e-b7d3871a5348" />
 # 💫 About Me:
 Hi I'm Nitish Shrivastav dedicated and detail-oriented professional transitioning into the fields of Business and Data Analysis. I am passionate about transforming raw data into actionable insights to drive informed decision-making.<br>My journey is driven by a commitment to continuous learning and technical mastery. I have built a robust toolkit including Python, SQL (SQLite), and Excel, and I actively apply these skills by developing comprehensive projects, such as generating synthetic datasets and designing interactive dashboards to solve real-world problems.<br>I thrive at the intersection of technical analysis and strategic project management,<br>bridge the gap between complex data and business value.
 
